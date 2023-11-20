@@ -42,10 +42,4 @@
 <br>
 </div>
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:ruhunsu3@naver.com">
-        <img src="https://img.shields.io/badge/
-        naver-#03C75A?style=for-the-badge&logo=naver&logoColor=white"/> 
-    </a>
-</div>
+
