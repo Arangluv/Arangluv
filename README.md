@@ -23,7 +23,7 @@
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=spring boot&logoColor=000000"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     </div>
   <br/>
